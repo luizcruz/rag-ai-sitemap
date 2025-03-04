@@ -6,12 +6,12 @@ O projeto é dividido em três etapas principais, acessíveis através de um das
 
 Dentro do final.py há variáveis de controle a saber: 
 
-PASTA_JSON  - Pasta que o crawler salva os conteúdos após raspagem
-CHROMA_DB_PATH - Diretório padrão do ChromaDB
-SITEMAP_URL - Sitemap para obtenção dos links
-MODEL_NAME - Modelo de LLM escolhido
-MODEL_EMBEDDING - Modelo de processo de vetorização (embedding)
-MAX_CRAWLERS - Máximo de crawlers simultâneos (cuidado!)
+PASTA_JSON  - Pasta que o crawler salva os conteúdos após raspagem  
+CHROMA_DB_PATH - Diretório padrão do ChromaDB  
+SITEMAP_URL - Sitemap para obtenção dos links  
+MODEL_NAME - Modelo de LLM escolhido  
+MODEL_EMBEDDING - Modelo de processo de vetorização (embedding)  
+MAX_CRAWLERS - Máximo de crawlers simultâneos (cuidado!)  
 
 
 ## Requisitos
