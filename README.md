@@ -1,6 +1,6 @@
 # RAG AI usando sitemap
 
-O Lance! RAG AI é um sistema completo de extração de notícias, processamento semântico e geração de respostas inteligentes baseado em banco vetorial. Ele combina Crawler, ChromaDB e LLMs locais via Ollama para oferecer uma experiência de busca semântica avançada.
+Este RAG AI é um sistema completo de extração de notícias, processamento semântico e geração de respostas inteligentes baseado em banco vetorial. Ele combina Crawler, ChromaDB e LLMs locais via Ollama para oferecer uma experiência de busca semântica avançada.
 
 O projeto é dividido em três etapas principais, acessíveis através de um dashboard interativo no Streamlit
 
